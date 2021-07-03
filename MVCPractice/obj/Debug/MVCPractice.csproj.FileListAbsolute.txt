@@ -1,0 +1,344 @@
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\MVCPractice.dll.config
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\MVCPractice.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\MVCPractice.pdb
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\csc.exe
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\csc.exe.config
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\csc.rsp
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\csi.exe
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\csi.exe.config
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\csi.rsp
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.Managed.Core.targets
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.AppContext.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Collections.Immutable.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Console.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Globalization.Calendars.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.IO.Compression.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.IO.FileSystem.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Net.Http.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Net.Sockets.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Reflection.Metadata.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.ValueTuple.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Xml.XmlDocument.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Xml.XPath.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\vbc.exe
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\vbc.exe.config
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\vbc.rsp
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\VBCSCompiler.exe
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\VBCSCompiler.exe.config
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Antlr3.Runtime.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Microsoft.Web.Infrastructure.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Newtonsoft.Json.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Helpers.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Mvc.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Optimization.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Razor.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.WebPages.Deployment.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.WebPages.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.WebPages.Razor.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\WebGrease.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Helpers.xml
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Mvc.xml
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Optimization.xml
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Razor.xml
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.WebPages.xml
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.WebPages.Deployment.xml
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.WebPages.Razor.xml
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Newtonsoft.Json.xml
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Antlr3.Runtime.pdb
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Helpers.resources.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Mvc.resources.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Optimization.resources.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Razor.resources.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.WebPages.resources.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\obj\Debug\MVCPractice.csprojAssemblyReference.cache
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\obj\Debug\MVCPractice.csproj.CoreCompileInputs.cache
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\obj\Debug\MVCPractice.csproj.CopyComplete
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\obj\Debug\MVCPractice.dll
+F:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\obj\Debug\MVCPractice.pdb
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\MVCPractice.dll.config
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\MVCPractice.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\MVCPractice.pdb
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\csc.exe
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\csc.exe.config
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\csc.rsp
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\csi.exe
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\csi.exe.config
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\csi.rsp
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.Managed.Core.targets
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.AppContext.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Collections.Immutable.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Console.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Globalization.Calendars.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.IO.Compression.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.IO.FileSystem.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Net.Http.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Net.Sockets.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Reflection.Metadata.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.ValueTuple.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Xml.XmlDocument.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Xml.XPath.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\vbc.exe
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\vbc.exe.config
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\vbc.rsp
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\VBCSCompiler.exe
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\roslyn\VBCSCompiler.exe.config
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Antlr3.Runtime.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Microsoft.Web.Infrastructure.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Newtonsoft.Json.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Helpers.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Mvc.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Optimization.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Razor.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.WebPages.Deployment.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.WebPages.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.WebPages.Razor.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\WebGrease.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Helpers.xml
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Mvc.xml
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Optimization.xml
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.Razor.xml
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.WebPages.xml
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.WebPages.Deployment.xml
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\System.Web.WebPages.Razor.xml
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Newtonsoft.Json.xml
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Antlr3.Runtime.pdb
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Helpers.resources.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Mvc.resources.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Optimization.resources.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Razor.resources.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.WebPages.resources.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\obj\Debug\MVCPractice.csprojAssemblyReference.cache
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\obj\Debug\MVCPractice.csproj.CoreCompileInputs.cache
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\obj\Debug\MVCPractice.csproj.CopyComplete
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\obj\Debug\MVCPractice.dll
+I:\巨匠課程資料\C#\20210420\MVCPractice\MVCPractice\obj\Debug\MVCPractice.pdb
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\MVCPractice.dll.config
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\MVCPractice.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\MVCPractice.pdb
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\csc.exe
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\csc.exe.config
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\csc.rsp
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\csi.exe
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\csi.exe.config
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\csi.rsp
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.Managed.Core.targets
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.Win32.Primitives.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.AppContext.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Collections.Immutable.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Console.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Globalization.Calendars.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.IO.Compression.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.IO.Compression.ZipFile.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.IO.FileSystem.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Net.Http.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Net.Sockets.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Reflection.Metadata.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Threading.Tasks.Extensions.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.ValueTuple.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Xml.XmlDocument.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Xml.XPath.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\vbc.exe
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\vbc.exe.config
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\vbc.rsp
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\VBCSCompiler.exe
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\VBCSCompiler.exe.config
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Antlr3.Runtime.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Microsoft.Web.Infrastructure.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Newtonsoft.Json.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Helpers.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Mvc.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Optimization.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Razor.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.WebPages.Deployment.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.WebPages.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.WebPages.Razor.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\WebGrease.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Helpers.xml
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Mvc.xml
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Optimization.xml
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Razor.xml
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.WebPages.xml
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.WebPages.Deployment.xml
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.WebPages.Razor.xml
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Newtonsoft.Json.xml
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Antlr3.Runtime.pdb
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Helpers.resources.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Mvc.resources.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Optimization.resources.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Razor.resources.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.WebPages.resources.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Debug\MVCPractice.csprojAssemblyReference.cache
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Debug\MVCPractice.csproj.CoreCompileInputs.cache
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Debug\MVCPractice.csproj.CopyComplete
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Debug\MVCPractice.dll
+I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Debug\MVCPractice.pdb
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\MVCPractice.dll.config
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\MVCPractice.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\MVCPractice.pdb
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\csc.exe
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\csc.exe.config
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\csc.rsp
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\csi.exe
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\csi.exe.config
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\csi.rsp
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.Managed.Core.targets
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\Microsoft.Win32.Primitives.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.AppContext.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Collections.Immutable.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Console.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Globalization.Calendars.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.IO.Compression.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.IO.Compression.ZipFile.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.IO.FileSystem.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Net.Http.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Net.Sockets.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Reflection.Metadata.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Threading.Tasks.Extensions.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.ValueTuple.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Xml.XmlDocument.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Xml.XPath.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\vbc.exe
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\vbc.exe.config
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\vbc.rsp
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\VBCSCompiler.exe
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\roslyn\VBCSCompiler.exe.config
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Antlr3.Runtime.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Microsoft.Web.Infrastructure.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Newtonsoft.Json.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Helpers.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Mvc.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Optimization.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Razor.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.WebPages.Deployment.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.WebPages.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.WebPages.Razor.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\WebGrease.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Helpers.xml
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Mvc.xml
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Optimization.xml
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.Razor.xml
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.WebPages.xml
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.WebPages.Deployment.xml
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\System.Web.WebPages.Razor.xml
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Newtonsoft.Json.xml
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Antlr3.Runtime.pdb
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Helpers.resources.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Mvc.resources.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Optimization.resources.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.Razor.resources.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.WebPages.resources.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.WebPages.Deployment.resources.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\bin\zh-Hant\System.Web.WebPages.Razor.resources.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Debug\MVCPractice.csprojAssemblyReference.cache
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Debug\MVCPractice.csproj.CoreCompileInputs.cache
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Debug\MVCPractice.csproj.CopyComplete
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Debug\MVCPractice.dll
+G:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Debug\MVCPractice.pdb

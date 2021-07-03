@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Release\Package\PackageTmp" />
+  <setAcl path="I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="I:\巨匠課程資料\C#\20210420 MVC\MVCPractice\MVCPractice\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

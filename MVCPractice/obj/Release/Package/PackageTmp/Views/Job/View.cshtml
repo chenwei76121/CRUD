@@ -1,0 +1,36 @@
+﻿@model MVCPractice.Models.JobModel
+
+@{
+    ViewBag.Title = "View";
+}
+
+<div class="container" style="margin:50px 20px 20px 20px">
+    @if (Model != null)
+    {
+
+        <div class="card" style="width: 18rem;">
+            <div class="card-body">
+                <h5 class="card-title">職位代碼 : @Model.Code</h5><br />
+                <h5 class="card-title">職位名稱 : @Model.Name</h5><br />
+                <h5 class="card-title">薪資範圍 : @Model.MinSalary ~ @Model.MaxSalary</h5><br />
+                <h5 class="card-title">工作地點 : @Model.JobLocation</h5><br />
+                <h5 class="card-title">工作內容 : @Model.Desc</h5><br />
+            </div>
+
+        </div>
+
+
+    }
+    else
+    {
+        <div class="card" style="width:18rem;">
+            <div class="card-body">
+                <h2 class="card-title">Data miss!!</h2><br />
+            </div>
+        </div>
+    }
+    <br />
+    @Html.ActionLink("回上一頁", "Index", "Job", null, new { @class = "btn btn-primary", @role = "button" })
+    @Html.ActionLink("刪除", "Del", "Job",new { id = @Model.Id} , new { @class = "btn btn-primary", @role = "button" })
+
+</div>

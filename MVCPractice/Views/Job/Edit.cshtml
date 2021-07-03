@@ -1,0 +1,41 @@
+﻿@model MVCPractice.Models.JobModel
+@{
+    ViewBag.Title = "Edit";
+}
+
+<div class="container" style="margin:50px 20px 20px 20px">
+    @if (Model != null)
+    {
+        using (Html.BeginForm("Update", "Job", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+            @Html.HiddenFor(Model => Model.Id);
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">職位代碼 : @Html.EditorFor(Model => Model.Code)</h5>
+                    <h6 style="color:red">@Html.ValidationMessageFor(Model => Model.Code)</h6><br />
+                    <h5 class="card-title">職位名稱 : @Html.EditorFor(Model => Model.Name)</h5><br />
+                    <h6 style="color:red">@Html.ValidationMessageFor(Model => Model.Name)</h6><br />
+                    <h5 class="card-title">薪資範圍 : @Html.EditorFor(Model => Model.MinSalary) ~ @Html.EditorFor(Model => Model.MaxSalary)</h5><br />
+                    <h5 class="card-title">工作地點 : @Html.EditorFor(Model => Model.JobLocation)</h5><br />
+                    <h5 class="card-title">工作內容 : @Html.EditorFor(Model => Model.Desc)</h5><br />
+                </div>
+                <br />
+                <div class="btn-group" role="group" aria-label="Basic example">
+                    <button type="submit" class="btn btn-primary">儲存</button>
+                    @Html.ActionLink("回上一頁", "Index", "Job", null, new { @class = "btn btn-primary", @role = "button" })
+                </div>
+            </div>
+        }
+
+    }
+    else
+    {
+        <div class="card" style="width:18rem;">
+            <div class="card-body">
+                <h2 class="card-title">Data miss!!</h2><br />
+            </div>
+        </div>
+    }
+</div>
+

@@ -1,0 +1,69 @@
+﻿@model List<MVCPractice.Models.JobModel>
+@{
+    ViewBag.Title = "職缺管理";
+}
+@ViewData["title"]
+
+@using (Html.BeginForm("Query", "Job", FormMethod.Post
+    , new { @class = "form-inline" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="form-group" style="margin:20px">
+        <label for="name">職缺 : </label>
+        <input type="text" class="form-control" id="name" name="name"
+               value="@Request["name"]" />
+    </div>
+    <div class="form-group" style="margin:20px">
+        <label for="pay">薪資 : </label>
+        <input type="text" class="form-control" id="pay" name="pay"
+               value="@Request["pay"]" />
+    </div>
+    <div class="form-group">
+        <input type="submit" value="Query" class="btn btn-primary" />
+        <input type="button" value="Add" class="btn btn-primary"
+               onclick="location.href='@Url.Action("Add","Job")'" />
+    </div>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">代碼</th>
+            <th scope="col" style="width:180px">職位名稱</th>
+            <th scope="col" style="width:120px">工作地點</th>
+            <th scope="col" style="width:200px">薪資</th>
+            <th scope="col">工作內容</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{ 
+            if (Model is null || Model.Count == 0)
+            {
+                <tr>
+                    <td colspan="6">-- 查無資料 --</td>
+                </tr>
+            }
+            else
+            {
+                foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Code</td>
+                        <td>@item.Name</td>
+                        <td>@item.JobLocation</td>
+                        <td>@item.MinSalary ~ @item.MaxSalary</td>
+                        <td>@item.Desc</td>
+                        <td>
+                            @Html.ActionLink("Edit", "Edit", "Job"
+                           , new { id = item.Id }
+                           , new { @class = "btn btn-primary", @role = "button" })
+                            @Html.ActionLink("View", "View", "Job"
+                           , new { id = item.Id }
+                           , new { @class = "btn btn-primary", @role = "button" })
+                        </td>
+                    </tr>
+                }
+            }
+        }
+    </tbody>
+</table>
